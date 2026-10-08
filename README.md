@@ -2,7 +2,7 @@
 
 problema a definir
 
-Equipe: Arthur, Leonardo e Luís
+Equipe: Arthur, Leonardo e Luiz
 
 Para Release 1:
 
