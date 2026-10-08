@@ -10,4 +10,4 @@ Product Onwer - Leonardo
 
 Scrum Master - Arthur
 
-Quality Tester - Luis
+Quality Tester - Luiz
