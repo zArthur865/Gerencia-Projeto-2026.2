@@ -1,13 +1,20 @@
 # Gerencia-Projeto-2026.2
 
-problema a definir
+## Projeto
 
-Equipe: Arthur, Leonardo e Luiz
+**SetupFlow** — Sistema web para otimização do sequenciamento de produção.
 
-Para Release 1:
+O projeto busca auxiliar pequenas e médias indústrias a definir uma sequência de produção mais eficiente, considerando fatores como tempo de setup, prioridades e prazos das ordens.
 
-Product Onwer - Leonardo
+## Equipe
 
-Scrum Master - Arthur
+- Arthur Marques
+- Leonardo
+- Luiz Inácio Moura da Costa
 
-Quality Tester - Luiz
+## Release 1
+
+- **Product Owner:** Leonardo
+- **Scrum Master:** Arthur 
+- **Quality Assurance (QA):** Luiz 
+- **DevOps:** Leonardo
